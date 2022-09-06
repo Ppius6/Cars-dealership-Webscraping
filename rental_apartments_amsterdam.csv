@@ -1,7 +1,21 @@
 Title,Location,Price,Area
                         Apartment Hillegomstraat 32 2                            ,            1058 LT Amsterdam (Hoofddorppleinbuurt)        ,"                €2,800 per month            ",85 m²
                         Apartment Bosboom Toussaintstraat                            ,            1054 AT Amsterdam (Helmersbuurt)        ,"                €4,500 per month            ",155 m²
-                        Apartment Hekelveld                            ,            1012 SN Amsterdam (Burgwallen-Nieuwe Zijde)        ,"                €1,850 per month            ",62 m²
+                        Apartment Gerard Doustraat                            ,            1072 VK Amsterdam (Oude Pijp)        ,"                €1,695 per month            ",44 m²
+                        Apartment Karthuizersplantsoen 9                            ,            1015 LS Amsterdam (Jordaan)        ,"                €3,450 per month            ",161 m²
+                        Apartment Rooseveltlaan                            ,            1079 AM Amsterdam (Scheldebuurt)        ,"                €3,995 per month            ",121 m²
+                        Apartment Olympiaplein                            ,            1077 CR Amsterdam (Apollobuurt)        ,"                €2,700 per month            ",100 m²
+                        Apartment Meerhuizenstraat                            ,            1078 TE Amsterdam (IJselbuurt)        ,"                €1,975 per month            ",65 m²
+                        Apartment Bestevâerstraat                            ,            1055 TK Amsterdam (Landlust)        ,"                €1,750 per month            ",60 m²
+                        Apartment Leusdenhof                            ,            1108 CS Amsterdam (Nellestein)        ,"                €1,900 per month            ",80 m²
+                        Apartment Baarsjesweg                            ,            1058 AD Amsterdam (Westindische Buurt)        ,"                €2,800 per month            ",50 m²
+                        Apartment Kanaalstraat 14 2                            ,            1054 XH Amsterdam (Helmersbuurt)        ,"                €1,850 per month            ",50 m²
+                        Apartment Rooseveltlaan                            ,            1079 AB Amsterdam (Scheldebuurt)        ,"                €3,000 per month            ",143 m²
+                        Apartment Rietnesse 8 III                            ,            1082 CG Amsterdam (Buitenveldert-West)        ,"                €1,950 per month            ",64 m²
+                        Apartment Hemonystraat 42 III                            ,            1074 BS Amsterdam (Oude Pijp)        ,"                €2,350 per month            ",97 m²
+                        Apartment Tintorettostraat 17 hs                            ,            1077 RN Amsterdam (Apollobuurt)        ,"                €4,250 per month            ",145 m²
+                        Apartment Julius Pergerstraat                            ,            1087 KN Amsterdam (IJburg Zuid)        ,"                €1,600 per month            ",84 m²
+                        Apartment Bestevâerstraat 244 1                            ,            1055 TT Amsterdam (Landlust)        ,"                €1,750 per month            ",59 m²
                         Apartment Eerste Van der Helststraat 1 A14                            ,            1073 AA Amsterdam (Oude Pijp)        ,"                €1,950 per month            ",75 m²
                         Studio Ridderspoorweg                            ,            1032 LL Amsterdam (Noordelijke IJ-oevers West)        ,"                €1,550 per month            ",40 m²
                         Studio Maassluisstraat 256 A                            ,            1062 GL Amsterdam (Westlandgracht)        ,"                €1,400 per month            ",42 m²
@@ -14,20 +28,6 @@ Title,Location,Price,Area
                         Apartment Gustav Mahlerlaan 240                            ,            1082 ME Amsterdam (Zuidas)        ,"                €3,500 per month            ",117 m²
                         Apartment Osdorpplein                            ,            1068 TD Amsterdam (Osdorp-Oost)        ,"                €1,900 per month            ",73 m²
                         House Tolstraat                            ,            1073 SC Amsterdam (Zuid Pijp)        ,"                €2,500 per month            ",82 m²
-                        Apartment Van Leijenberghlaan 151                            ,            1082 GD Amsterdam (Buitenveldert-Oost)        ,"                €2,100 per month            ",128 m²
                         Apartment Hoofdweg                            ,            1056 CR Amsterdam (Van Galenbuurt)        ,"                €2,500 per month            ",83 m²
                         Apartment Amazonenstraat                            ,            1076 LL Amsterdam (Stadionbuurt)        ,"                €2,475 per month            ",78 m²
                         Apartment Paramariboplein 2 2                            ,            1058 AS Amsterdam (Westindische Buurt)        ,"                €2,800 per month            ",97 m²
-                        House Madurastraat                            ,            1094 GE Amsterdam (Indische Buurt West)        ,"                €2,595 per month            ",95 m²
-                        Apartment Holendrechtstraat                            ,            1078 TV Amsterdam (IJselbuurt)        ,"                €1,850 per month            ",70 m²
-                        House Kantershof 27                            ,"            1104 GB Amsterdam (Bijlmer Oost (E,G,K))        ","                €1,450 per month            ",93 m²
-                        Studio Krommertstraat                            ,            1056 TS Amsterdam (Geuzenbuurt)        ,"                €1,150 per month            ",25 m²
-                        Apartment John Blankensteinstraat                            ,            1095 MB Amsterdam (Zeeburgereiland/Nieuwe Diep)        ,"                €1,500 per month            ",50 m²
-                        Apartment Herenstraat 4 C                            ,            1015 CA Amsterdam (Grachtengordel-West)        ,"                €1,950 per month            ",55 m²
-                        Apartment Tweede Jacob van Campenstraat 94 HS-L                            ,            1073 XW Amsterdam (Oude Pijp)        ,"                €1,750 per month            ",42 m²
-                        Apartment Eerste Helmersstraat 121 1                            ,            1054 DN Amsterdam (Helmersbuurt)        ,"                €2,250 per month            ",80 m²
-                        Apartment Buiksloterweg 35 A                            ,            1031 CD Amsterdam (Volewijck)        ,"                €2,650 per month            ",110 m²
-                        Apartment Marco Polostraat                            ,            1057 WR Amsterdam (Hoofdweg e.o.)        ,"                €1,850 per month            ",55 m²
-                        Apartment Rustenburgerstraat 145                            ,            1073 EX Amsterdam (Nieuwe Pijp)        ,"                €2,450 per month            ",87 m²
-                        Apartment Frederiksplein 24 3                            ,            1017 XM Amsterdam (De Weteringschans)        ,"                €2,450 per month            ",95 m²
-                        Apartment Karel du Jardinstraat 45 1                            ,            1072 SG Amsterdam (Nieuwe Pijp)        ,"                €2,100 per month            ",60 m²
